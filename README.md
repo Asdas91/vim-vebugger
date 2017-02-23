@@ -1,6 +1,9 @@
 INTRODUCTION
 ============
 
+This is just my fork where I merged a branch to development to add support
+for jdb attach feature, which is a very important thing for me.
+
 Screencast - https://vimeo.com/95775461
 
 Vebugger is yet another debugger frontend plugin for Vim, created because I
